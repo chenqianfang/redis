@@ -1,0 +1,2 @@
+extension=php_igbinary.dll
+extension=php_redis.dll
